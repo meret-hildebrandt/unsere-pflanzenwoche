@@ -1,0 +1,9 @@
+Unsere Pflanzenwoche – Version 8
+
+1. ZIP vollständig entpacken.
+2. index.html im entpackten Ordner im Browser öffnen.
+3. Alle Bilder liegen lokal im Unterordner bilder.
+4. Für iPhone als Home-Bildschirm-App ist HTTPS-Hosting erforderlich; ein ZIP allein installiert keine iPhone-App.
+5. Die Daten werden nur im Browser dieses Geräts gespeichert. Regelmäßig Backup exportieren.
+
+Hinweis: Die Illustrationen sind bewusst vereinfachte schematische Zeichnungen. Manche ähnlichen Lebensmittel sind vor allem durch ihren Namen unterscheidbar.
